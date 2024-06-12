@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/xKony/static/css/main.e6c13ad2.css",
-    "main.js": "/xKony/static/js/main.05ba3f85.js",
+    "main.js": "/xKony/static/js/main.1ef72b38.js",
+    "static/media/modal.png": "/xKony/static/media/modal.0e32206081b77fb1af02.png",
     "static/media/todolist.png": "/xKony/static/media/todolist.e6313358c6de420d8d33.png",
     "static/media/switch.png": "/xKony/static/media/switch.91200f182fd2cf2a2bc1.png",
+    "static/media/animation.png": "/xKony/static/media/animation.bf5165a53752d9371d34.png",
+    "static/media/fetchdata.png": "/xKony/static/media/fetchdata.8472efef537653b37657.png",
     "index.html": "/xKony/index.html",
     "main.e6c13ad2.css.map": "/xKony/static/css/main.e6c13ad2.css.map",
-    "main.05ba3f85.js.map": "/xKony/static/js/main.05ba3f85.js.map"
+    "main.1ef72b38.js.map": "/xKony/static/js/main.1ef72b38.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05ba3f85.js"
+    "static/js/main.1ef72b38.js"
   ]
 }
